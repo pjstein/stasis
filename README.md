@@ -1,5 +1,8 @@
 # Stasis
 
+> "[S]lowing of the current of circulating blood...
+> reduced motility of the intestines with retention of feces" - Merriam & Webster
+
 Trying to wrap my head around Docker. It is both wonderful and great. I read
 a [blog post](http://bricolage.io/hosting-static-sites-with-docker-and-nginx/)
 about hosting static sites with Docker & Nginx. It seemed a good place to start.
